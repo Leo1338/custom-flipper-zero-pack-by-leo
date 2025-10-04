@@ -1,31 +1,29 @@
 <div align="center">
-  <h1><code>Flipper Zero: Custom my custom pack</code></h1>
+  <h1><code>Flipper Zero: My custom pack</code></h1>
   <p>
-    This repository contains a script created for the BadUSB/BadKB function in Flipper Zero.  Compatible with any device that supports Ducky Script. When running this script, Mario's head appears on the user's screen, she speaks, and after that a real blue screen of death appears and the computer restarts. Please remember that this script is intended solely for educational purposes!
-
+    This repository contains my custom package for flipper zero. It contains: the tgz file of the latest Momentum firmware for the qFlipper application, my personal or borrowed BadUSB scripts from other users, and much more. Please remember that I am not responsible for your actions and all these files are for educational use only!
 **The script was created by Leo1338**
 
-**If you think this script was useful to you, please click on the star ⭐** <br/><br/>
+**If this package was useful to you, please click on the asterisk ⭐** <br/><br/>
 
   </p>
 </div>
 
 ## Requirements ##
-- Flipper Zero ( Or a device that supports ducky script )
+- Flipper Zero
 - Internet connection
 
 ## Installation ##
 - Press the Green "``<> Code``" button
 - Press the "``Download ZIP``" button
-- **Unzip** and drag into **qflipper**
 
 
 ## Terms of Use ##
 
-By downloading and using the provided script, you automatically agree to the following Terms of Use. If you do not agree, please refrain from downloading or using the script.
+By downloading and using the provided package, you automatically agree to the rules for using files in it, if you do not agree, please refrain from installing the package.
 
-1. You understand that `Leo1338` is not responsible for your actions or any damage caused as a result of using the script.
+1. You understand that `Leo1338` is not responsible for your actions or any damage caused as a result of using the files in the package.
 2. You have permission to share all files.
 3. You can change files, but you are responsible for your actions.
-4. When adding my script to your repository, crediting is mandatory.
-5. Please do not use the script for commercial purposes.
+4. When adding my script/program to your repository, authorization is required.
+5. Please do not use scripts from the package for commercial purposes.
