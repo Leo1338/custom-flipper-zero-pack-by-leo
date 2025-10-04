@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>Flipper Zero: Mario Had bad usb script</code></h1>
+  <h1><code>Flipper Zero: Custom my custom pack</code></h1>
   <p>
     This repository contains a script created for the BadUSB/BadKB function in Flipper Zero.  Compatible with any device that supports Ducky Script. When running this script, Mario's head appears on the user's screen, she speaks, and after that a real blue screen of death appears and the computer restarts. Please remember that this script is intended solely for educational purposes!
 
